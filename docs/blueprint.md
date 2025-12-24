@@ -4,7 +4,7 @@
 
 - User Authentication: User registration and login system to save preferences.
 - Preference Form: Interactive form for users to input preferences: platforms, genres, duration, language, subtitles, dubbing, and content themes (happy endings, humor, etc.).
-- AI Recommendations: AI-powered recommendations using Gemini AI via API key AIzaSyBRsF-FBdX_02S0PUQSLcP-2JCX3Gnc1y8. The tool helps find series, movies, and documentaries based on user preferences. The AI tool will attempt to determine which attributes or filters should be adjusted based on explicit user input from preference form.
+- AI Recommendations: AI-powered recommendations using Gemini AI via API key The tool helps find series, movies, and documentaries based on user preferences. The AI tool will attempt to determine which attributes or filters should be adjusted based on explicit user input from preference form.
 - Suggestion Display: Display movie/series suggestions including: Title, Year, Genre, Platform, Synopsis, Cover Image, Main Actors, and direct link (if available).
 - Content Sections: Sections for 'My Recommendations', 'Favorites', 'Explore by Mood', 'Recently Viewed', and 'History'.
 - Adaptive Learning: System learns user tastes over time and improves suggestions using historical data.
